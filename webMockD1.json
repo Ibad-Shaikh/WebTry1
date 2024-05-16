@@ -1,0 +1,29 @@
+{
+    "services": [
+        {
+            "name": "SEO Optimization",
+            "description": "Improve your website's visibility on search engines.",
+            "price": "$500"
+        },
+        {
+            "name": "Social Media Management",
+            "description": "Manage your social media profiles and engage with your audience.",
+            "price": "$300"
+        },
+        {
+            "name": "Content Creation",
+            "description": "Create high-quality content for your website and social media.",
+            "price": "$400"
+        },
+        {
+            "name": "Email Marketing",
+            "description": "Design and send effective email marketing campaigns.",
+            "price": "$250"
+        },
+        {
+            "name": "PPC Advertising",
+            "description": "Run targeted pay-per-click advertising campaigns.",
+            "price": "$600"
+        }
+    ]
+}
